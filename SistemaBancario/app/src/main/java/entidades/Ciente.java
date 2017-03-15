@@ -5,4 +5,5 @@ package entidades;
  */
 
 public class Ciente {
+    private String nome;
 }
